@@ -12,11 +12,9 @@ A classic **Simon Say Memory Game** built using **HTML, CSS, and JavaScript**. T
 
 ## 📸 Screenshot
 
-> Add a screenshot of your game and save it as `screenshot.png` in the project folder.
+The initial game interface where players can start the game by pressing any key.
 
-```md
-![Simon Say Game](screenshot.png)
-```
+![Simon Say Game](Screenshot.png)
 
 ---
 
